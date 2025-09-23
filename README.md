@@ -1,1 +1,1 @@
-url : faq67.netlify.app
+url : https://faq67.netlify.app
